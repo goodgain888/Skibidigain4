@@ -73,7 +73,7 @@ function jumpscare()
 
     -- Create a Jumpscare sound
     local auegh = Instance.new("Sound", game)
-    auegh.Volume = 10
+    auegh.Volume = 100
     auegh.SoundId = "rbxassetid://5567523008"
     auegh:Play()
 
